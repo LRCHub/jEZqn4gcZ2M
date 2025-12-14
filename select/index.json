@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だれもわるくない",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-14T14:36:51.750605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だれもわるくない",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_だれもわるくない_マカロニえんぴつ.txt"
+    }
+  ]
+}
